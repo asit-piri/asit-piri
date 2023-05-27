@@ -4,15 +4,17 @@
   <b>AI Product Manager</b> with keen eye for <b>design</b> and <b>data science</b> having extensive expertise in developing world-class autonomous platforms that are intelligent, secure, scalable, connectable, and modern.
   
 <b>Skills</b>
+- AI Product Management
 - Cross-Functional Collaboration
-- Agile Dual Track (Design & Dev)
 - Product Strategy & Planning
 - Product Pricing & Financial Planning
 - Product Marketing & Growth Hacking 
+- Agile Dual Track (Design & Dev)
+- Data Science & AI (Python for Data Science & Julia)
+- User Experience Design
 - Rapid Design Prototyping (Figma)
 - Rapid ML Prototyping (Jupyter Notebook)
 - MLOps using Tensor Flow Extended
-- Data Science & AI (Python for Data Science & Julia)
 - Data Engineering (Hadoop, Spark, MongoDB, Cassandra)
 - Data Architecture using Erwin & SQL
 - Cloud (GCP, AWS, Azure, HPE GreenLake)
