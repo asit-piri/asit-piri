@@ -25,7 +25,7 @@ My experience in product development and engineering has taught me the importanc
 
 <span align="center">
   
-  [![Visits Badge](https://badges.strrl.dev/visits/ajxpr/asit-piri?style=for-the-badge&color=000000)](#)
+  [![Visits Badge](https://badges.strrl.dev/visits/asit-piri/asit-piri?style=for-the-badge&color=000000)](#)
   [![Repos Badge](https://badges.strrl.dev/repos/asit-piri?style=for-the-badge&color=000000)](https://github.com/asit-piri?tab=repositories)
   [![Gists Badge](https://badges.strrl.dev/gists/asit-piri?style=for-the-badge&color=000000)](https://gist.github.com/asit-piri)
 
