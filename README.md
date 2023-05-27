@@ -1,9 +1,21 @@
 <h2 align="center">ABOUT ME</h2>
 
 <p>
-With over 20 years of experience in product development and product engineering across a wide range of technologies and industries, I have developed a comprehensive understanding of what it takes to build and ship successful products. My expertise spans hybrid cloud platforms, and SaaS commerce platforms. data lake platforms, API platforms, and web apps, and I am deeply passionate about product management and engineering roles.
-
-My experience in product development and engineering has taught me the importance of staying current with emerging technologies and market trends. I am always looking for ways to innovate and improve upon existing products and processes, and I thrive in dynamic, fast-paced environments where I can leverage my skills and experience to drive positive change.
+  <b>AI Product Manager</b> with keen eye for <b>design</b> and <b>data science</b> having extensive expertise in developing world-class autonomous platforms that are intelligent, secure, scalable, connectable, and modern.
+  
+<b>Skills</b>
+- Cross-Functional Collaboration
+- Agile Dual Track (Design & Dev)
+- Product Strategy & Planning
+- Product Pricing & Financial Planning
+- Product Marketing & Growth Hacking 
+- Rapid Design Prototyping (Figma)
+- Rapid ML Prototyping (Jupyter Notebook)
+- MLOps using Tensor Flow Extended
+- Data Science & AI (Python for Data Science & Julia)
+- Data Engineering (Hadoop, Spark, MongoDB, Cassandra)
+- Data Architecture using Erwin & SQL
+- Cloud (GCP, AWS, Azure, HPE GreenLake)
 </p>
 
 <h2 align="center">TOP SKILLS</h2>
