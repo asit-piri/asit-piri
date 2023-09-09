@@ -1,7 +1,7 @@
 <h2 align="center">ABOUT ME</h2>
 
 <p>
-  <b>AI Product Manager</b> with keen eye for <b>design</b> and <b>data science</b> having extensive expertise in developing world-class autonomous platforms that are intelligent, secure, scalable, connectable, and modern.
+  <b>AI Product Manager</b> with a keen eye for <b>design</b> and <b>data science</b> having extensive expertise in developing world-class autonomous platforms using my expertise in software, technology, infrastructure, consulting, and composite skills that are intelligent, secure, scalable, connectable, and modern.
   
 <b>Skills</b>
 - AI Product Management
