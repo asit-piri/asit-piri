@@ -4,7 +4,7 @@
   <b>AI Product Manager</b> with a keen eye for <b>design</b> and <b>data science</b> having extensive expertise in developing world-class autonomous platforms using my expertise in software, technology, infrastructure, consulting, and composite skills that are intelligent, secure, scalable, connectable, and modern.
   
 <b>Skills</b>
-- AI Product Management
+- AI Product Leadership
 - Mathematics & Statistics
 - Data Science & AI (Python for Data Science & Julia)
 - MLOps using Tensor Flow Extended
