@@ -5,17 +5,18 @@
   
 <b>Skills</b>
 - AI Product Management
+- Mathematics & Statistics
+- Data Science & AI (Python for Data Science & Julia)
+- MLOps using Tensor Flow Extended
+- Data Engineering (Hadoop, Spark, MongoDB, Cassandra)
+- Rapid ML Prototyping (Jupyter Notebook)
 - Cross-Functional Collaboration
 - Product Strategy & Planning
 - Product Pricing & Financial Planning
 - Product Marketing & Growth Hacking 
 - Agile Dual Track (Design & Dev)
-- Data Science & AI (Python for Data Science & Julia)
 - User Experience Design
 - Rapid Design Prototyping (Figma)
-- Rapid ML Prototyping (Jupyter Notebook)
-- MLOps using Tensor Flow Extended
-- Data Engineering (Hadoop, Spark, MongoDB, Cassandra)
 - Data Architecture using Erwin & SQL
 - Cloud (GCP, AWS, Azure, HPE GreenLake)
 </p>
