@@ -47,8 +47,7 @@
 
 
 <span align="center">  
-  
-  [[![Github Stats](https://github-readme-streak-stats.herokuapp.com?user=ajxpr&theme=black-ice&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000)](#)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asit-piri&theme=icegray)](https://git.io/streak-stats)
 </span>
 
 
