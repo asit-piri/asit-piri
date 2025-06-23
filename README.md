@@ -1,7 +1,7 @@
 <h2 align="center">ABOUT ME</h2>
 
 <p>
-  <b>AI Product Manager</b> with a keen eye for <b>design</b> and <b>data science</b> having extensive expertise in developing world-class autonomous platforms using my expertise in software, technology, infrastructure, consulting, and composite skills that are intelligent, secure, scalable, connectable, and modern.
+<b>Highly accomplished and results-oriented AI Researcher and Computational Data Scientist</b> with two decades of experience in <b>data, design, product, and AI</b>, specializing in <b>Agentic AI, Generative AI, Deep Learning, Machine Learning, and Data Engineering</b>. Driving the successful development and launch of AI-powered products with a proven track record in driving business outcomes. Expertise in leveraging <b>multi-modal</b> large datasets (including healthcare, legal, hr, IoT, telecom and device usage information) for multiple business domain use cases. Adept at applying advanced analytics, modeling, and foundation models to create value-added solutions to solve various real world use cases and problems statements. Proven ability to translate complex technical concepts into compelling product visions, collaborate effectively with cross-functional teams, and deliver exceptional business outcomes using supervised, unsupervised, reinforcement and representation learning techniques. Expertise in deep learning framework (PyTorch, TensorFlow, Keras) and Generative AI (Large Language Models, RAGs, Foundation Models) with multi-cloud (Azure, AWS, GCP, HuggingFace) high-performance computing platforms. Focused on applying expertise to develop value-added AI applications to drive business outcomes and contribute to the growth of the company.
   
 <b>Skills</b>
 - AI Product Leadership
