@@ -1,9 +1,12 @@
+# <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Asit Piri!</h1>
+
+
 <h2 align="center">ABOUT ME</h2>
 
 <p>
 <b>Highly accomplished and results-oriented AI Engineering Leader and Principal AI Research Scientist </b> with two decades of experience in <b>data, design, product, and AI</b>, specializing in <b>Agentic AI, Generative AI, Deep Learning, Machine Learning, and Data Engineering</b>. Driving the successful development and launch of AI-powered products with a proven track record in driving business outcomes. Expertise in leveraging <b>multi-modal</b> large datasets (including healthcare, legal, hr, IoT, telecom and device usage information) for multiple business domain use cases. Adept at applying advanced analytics, modeling, and foundation models to create value-added solutions to solve various real world use cases and problems statements. Proven ability to translate complex technical concepts into compelling product visions, collaborate effectively with cross-functional teams, and deliver exceptional business outcomes using supervised, unsupervised, reinforcement and representation learning techniques. Expertise in deep learning framework (PyTorch, TensorFlow, Keras) and Generative AI (Large Language Models, RAGs, Foundation Models) with multi-cloud (Azure, AWS, GCP, HuggingFace) high-performance computing platforms. Focused on applying expertise to develop value-added AI applications to drive business outcomes and contribute to the growth of the company.
 
-<b>WHAT I ACHEIVED</b>
+<b>WHAT I BUILDED</b>
 
 I’m an Enterprise AI Architect with 25+ years of experience, currently building Generative AI and multi-agent systems using GraphRAG and knowledge graphs. I specialise in turning advanced AI into scalable, production-grade platforms that drive real business impact.
 
@@ -15,7 +18,7 @@ Before this, I’ve spent over two decades building data and AI platforms from e
 
 What ties my journey together is the ability to bridge deep technical architecture with business outcomes turning advanced AI concepts like GraphRAG, multi-agent systems, and even quantum-AI models into scalable, revenue-generating platforms.
 
-<b>WHAT I AM LOOKING FOR</b>
+<b>WHAT I AM GOINT TO BUILD</b>
 
 Going forward, I’m particularly excited about roles where I can drive AI strategy and build next-generation intelligent systems combining LLMs, knowledge graphs, and agentic architectures to solve complex enterprise problems at scale. That’s why this opportunity strongly aligns with my experience and what I’m looking to do next.
 
