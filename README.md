@@ -152,6 +152,7 @@ Going forward, I’m particularly excited about roles where I can drive AI strat
 <span align="center">
   
 [<img style="padding:25px;" alt="Asit Piri | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][Linkedin]
+[<img alt="Asit Piri | Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>](https://asit-piri-website.vercel.app/)
 [<img style="padding:25px;" alt="Asit Piri | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][Gmail]
 [<img alt="Asit Piri | GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>][Github]
 [<img alt="Asit Piri | Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>][Dribbble]
