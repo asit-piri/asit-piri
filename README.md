@@ -188,16 +188,6 @@ Azure • AWS • Terraform • Docker • Kubernetes • GraphQL
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/asit-piri/asit-piri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
 # 🎯 2026 GOALS
 
 ```yaml
