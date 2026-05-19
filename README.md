@@ -97,6 +97,126 @@ Mission:
 
 ---
 
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asit-piri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asit-piri&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asit-piri&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+# ⚡ ADVANCED GITHUB METRICS
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asit-piri&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asit-piri&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asit-piri&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asit-piri&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asit-piri&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+---
+
+# 🧠 AI ENGINEERING METRICS
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asit-piri&theme=github_dark" />
+
+</div>
+
+---
+
+# 🌟 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Auto-Founder AI
+Autonomous startup-building AI ecosystem powered by multi-agent orchestration, GraphRAG, and continuous learning systems.
+
+**Tech Stack:**  
+Python • FastAPI • LangGraph • Neo4j • Vector DB • Kubernetes
+
+</td>
+
+<td width="50%">
+
+### 🧠 Enterprise AI Platform
+Scalable AI-native enterprise platform with governance, observability, and LLMOps automation.
+
+**Tech Stack:**  
+Azure • AWS • Terraform • Docker • Kubernetes • GraphQL
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/asit-piri/asit-piri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# 🎯 2026 GOALS
+
+```yaml
+Goals:
+  - Build Autonomous AI Operating System
+  - Open Source Multi-Agent Framework
+  - Publish AI Research Papers
+  - Scale Auto-Founder AI
+  - Contribute to OSS AI Ecosystem
+  - Mentor Next-Gen AI Engineers
+```
+
+---
+
+# ☕ SUPPORT MY WORK
+
+<div align="center">
+
+<a href="https://github.com/sponsors/asit-piri">
+  <img src="https://img.shields.io/badge/Sponsor-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.buymeacoffee.com/asitpiri">
+  <img src="https://img.shields.io/badge/Buy%20Me%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
 # 🏆 GITHUB TROPHIES
 
 <div align="center">
