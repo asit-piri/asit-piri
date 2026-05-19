@@ -123,16 +123,6 @@ Mission:
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asit-piri&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🧬 AI SPECIALIZATIONS
 
 | Domain | Expertise |
