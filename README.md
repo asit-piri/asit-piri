@@ -164,6 +164,4 @@ Mission:
 
 <div align="center">
 
-### ⭐ If you like my work, consider following me!
-
 </div>
