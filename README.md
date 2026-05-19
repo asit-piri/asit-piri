@@ -87,15 +87,26 @@ Mission:
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=asit-piri&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/asit-piri/asit-piri/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/asit-piri/asit-piri/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/asit-piri/asit-piri/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
-
----
 
 ---
 
