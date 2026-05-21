@@ -114,13 +114,13 @@ Mission:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asit-piri&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=asit-piri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asit-piri&layout=compact&theme=github_dark&hide_border=true" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=asit-piri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
 </div>
-
----
 
 # 📈 CONTRIBUTION GRAPH
 
