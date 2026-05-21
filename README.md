@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,100:2563eb&text=Asit%20Piri&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Principal%20AI%20Architect%20%7C%20Agentic%20AI%20Researcher%20%7C%20Full-Stack%20AI%20Builder&descAlignY=60&descSize=18" alt="Hero Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,100:2563eb&text=Asit%20Piri&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Principal%20AI%20Architect%20|%20Agentic%20AI%20Researcher%20|%20Full-Stack%20AI%20Builder&descAlignY=60&descSize=18" />
 
 # 👋 Hi, I'm Asit Piri
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Building+Enterprise+Grade+AI+Platforms;Agentic+AI+%7C+GraphRAG+%7C+LLMOps;Multi-Agent+Systems+Architect;Generative+AI+Research+Scientist;AI+Platform+%26+Cloud+Transformation+Leader" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Building+Enterprise+Grade+AI+Platforms;Agentic+AI+%7C+GraphRAG+%7C+LLMOps;Multi-Agent+Systems+Architect;Generative+AI+Research+Scientist;AI+Platform+%26+Cloud+Transformation+Leader" />
 
 </div>
 
@@ -18,20 +18,20 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/asit-piri" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/asit-piri">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/asit-piri" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+<a href="https://github.com/asit-piri">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="mailto:asit.piri@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://asit-piri-website.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://dribbble.com/AsitPiri" target="_blank">
-  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
+
+<a href="https://asit-piri-website.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </div>
@@ -42,8 +42,7 @@
 
 ```yaml
 Name: Asit Piri
-Role: Principal AI Architect & Research Scientist
-Experience: 25+ Years
+Role: Principal AI Architect
 Specialization:
   - Generative AI
   - Agentic AI
@@ -57,12 +56,7 @@ Current Focus:
   - Autonomous AI Systems
   - AI Orchestration Engines
   - Graph + Vector AI Ecosystems
-  - Quantum-AI Hybrid Models
-
-Mission:
-  Building scalable AI-native enterprise systems
-  that transform business operations using
-  intelligent autonomous agents.
+  - AI-native Enterprise Platforms
 ```
 
 ---
@@ -72,39 +66,16 @@ Mission:
 <div align="center">
 
 ### AI / ML / LLM
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,opencv" alt="AI/ML Skills" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,opencv" />
 
 ### Cloud & Infrastructure
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux" alt="Cloud Skills" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux" />
 
 ### Frontend & Backend
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,graphql,postgres,redis" alt="Web Skills" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,graphql,postgres,redis" />
 
 ### Dev Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,notion,figma" alt="Dev Tools" />
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/asit-piri/asit-piri/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/asit-piri/asit-piri/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/asit-piri/asit-piri/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </div>
 
@@ -122,39 +93,52 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=asit-piri&la
 
 </div>
 
+---
+
 # 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asit-piri&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+<img width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=asit-piri&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# ⚡ ADVANCED GITHUB METRICS
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asit-piri&theme=tokyonight" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/asit-piri/asit-piri/output/github-contribution-grid-snake-dark.svg"
+  />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asit-piri&theme=tokyonight" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/asit-piri/asit-piri/output/github-contribution-grid-snake.svg"
+  />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asit-piri&theme=tokyonight" />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/asit-piri/asit-piri/output/github-contribution-grid-snake.svg"
+  />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asit-piri&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asit-piri&theme=tokyonight&utcOffset=5.5" />
+</picture>
 
 </div>
 
 ---
 
-# 🧠 AI ENGINEERING METRICS
+# 🏆 GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asit-piri&theme=github_dark" />
+<img
+src="https://github-profile-trophy.vercel.app/?username=asit-piri&theme=tokyonight&no-frame=true&margin-w=15"
+/>
 
 </div>
 
@@ -164,25 +148,39 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=asit-piri&la
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 🚀 Auto-Founder AI
-Autonomous startup-building AI ecosystem powered by multi-agent orchestration, GraphRAG, and continuous learning systems.
+## 🚀 Auto-Founder AI
 
-**Tech Stack:**  
-Python • FastAPI • LangGraph • Neo4j • Vector DB • Kubernetes
+Autonomous startup-building AI ecosystem powered by:
+- Multi-Agent AI Systems
+- GraphRAG
+- Autonomous Code Generation
+- AI Orchestration
+- Continuous Learning Systems
+
+### Tech Stack
+Python • FastAPI • LangGraph • Neo4j • Kubernetes
 
 </td>
 
 <td width="50%">
 
-### 🧠 Enterprise AI Platform
-Scalable AI-native enterprise platform with governance, observability, and LLMOps automation.
+## 🧠 Enterprise AI Platform
 
-**Tech Stack:**  
-Azure • AWS • Terraform • Docker • Kubernetes • GraphQL
+Scalable enterprise AI platform with:
+- LLMOps
+- Governance
+- Observability
+- AI Automation
+- Cloud-native AI Infrastructure
+
+### Tech Stack
+Azure • AWS • Docker • Terraform • GraphQL
 
 </td>
+
 </tr>
 </table>
 
@@ -193,11 +191,10 @@ Azure • AWS • Terraform • Docker • Kubernetes • GraphQL
 ```yaml
 Goals:
   - Build Autonomous AI Operating System
-  - Open Source Multi-Agent Framework
-  - Publish AI Research Papers
   - Scale Auto-Founder AI
-  - Contribute to OSS AI Ecosystem
-  - Mentor Next-Gen AI Engineers
+  - Open Source AI Frameworks
+  - Publish AI Research
+  - Mentor AI Engineers
 ```
 
 ---
@@ -210,51 +207,7 @@ Goals:
   <img src="https://img.shields.io/badge/Sponsor-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.buymeacoffee.com/asitpiri">
-  <img src="https://img.shields.io/badge/Buy%20Me%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
-
 </div>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=asit-piri&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-# 🧬 AI SPECIALIZATIONS
-
-
-| Domain | Expertise |
-| :--- | :--- |
-| **Agentic AI** | Multi-Agent Systems, AI Orchestration |
-| **Generative AI** | LLMs, RAG, GraphRAG |
-| **AI Platforms** | Enterprise AI Architecture |
-| **LLMOps** | Evaluation, Monitoring, Governance |
-| **Cloud AI** | AWS, Azure, GCP |
-| **Data Engineering** | Spark, Kafka, ETL |
-| **Knowledge Graphs** | Neo4j, Vector DB |
-| **Quantum AI** | Hybrid Quantum-Classical Systems |
-
----
-
-# 🚀 CURRENTLY BUILDING
-
-## Auto-Founder AI
-
-> **Autonomous startup-building AI ecosystem powered by:**
-> * Multi-Agent AI Systems
-> * AI Orchestration
-> * Autonomous Code Generation
-> * AI Product Validation
-> * Self-Healing AI Pipelines
-> * LLMOps & Continuous Learning
 
 ---
 
@@ -262,6 +215,6 @@ Goals:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=asit-piri&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=asit-piri&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
