@@ -1,6 +1,4 @@
-# .github/workflows/snake.yml
-
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -8,25 +6,24 @@ on:
 
   workflow_dispatch:
 
-jobs:
-  generate:
-    permissions:
-      contents: write
+permissions:
+  contents: write
 
+jobs:
+  build:
     runs-on: ubuntu-latest
 
-    timeout-minutes: 5
-
     steps:
-      - name: Generate snake game
-        uses: Platane/snk@v3
+      - name: Generate github contribution grid snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: asit-piri
+
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake to output branch
+      - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
