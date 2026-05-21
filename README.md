@@ -43,6 +43,7 @@
 ```yaml
 Name: Asit Piri
 Role: Principal AI Architect
+
 Specialization:
   - Generative AI
   - Agentic AI
@@ -81,66 +82,45 @@ Current Focus:
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=asit-piri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=asit-piri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
-
-</div>
-
----
-
-# 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=asit-piri&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/asit-piri">
+    <img height="180em"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=asit-piri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+    />
+    <img height="180em"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asit-piri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    />
+  </a>
+</p>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 📈 Contribution Graph
 
-<div align="center">
+[![Asit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asit-piri&theme=tokyo-night&hide_border=true)](https://github.com/asit-piri)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/asit-piri/asit-piri/output/github-contribution-grid-snake-dark.svg"
-  />
+---
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/asit-piri/asit-piri/output/github-contribution-grid-snake.svg"
-  />
+# 🐍 Contribution Snake
 
+<p align="center">
   <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/asit-piri/asit-piri/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/asit-piri/asit-piri/output/github-contribution-grid-snake-dark.svg"
+    alt="snake animation"
   />
-
-</picture>
-
-</div>
+</p>
 
 ---
 
-# 🏆 GITHUB TROPHIES
+# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=asit-piri&theme=tokyonight&no-frame=true&margin-w=15"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=asit-piri&theme=tokyonight&no-frame=true&margin-w=15&row=1"
+  />
+</p>
 
 ---
 
