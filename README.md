@@ -45,7 +45,7 @@
 
 > **Principal-level AI Architect with 25+ years spanning research, engineering, and enterprise transformation.** I design and ship production AI systems end-to-end — from agentic orchestration and Graph-RAG retrieval to LLMOps and cloud-native infrastructure — and I stay hands-on in the architecture, not just the slide deck.
 
-I've held senior technical and architecture roles across **Knovera, NaviOwl, Zero State, ESCRIBA, Hewlett Packard Enterprise, Capgemini, HCL Technologies, and C-DAC**, working at the intersection of applied research and large-scale systems. Today I'm building **AutoFounder AI**, a multi-tenant agentic platform that automates the work of founding and operating a startup.
+I've held senior technical and architecture roles across **Knovera, ESCRIBA, Hewlett Packard Enterprise, Capgemini, HCL Technologies, and C-DAC**, working at the intersection of applied research and large-scale systems. Today I'm building **AutoFounder AI**, a multi-tenant agentic platform that automates the work of founding and operating a startup.
 
 **What I bring to a leadership team:**
 
@@ -67,11 +67,11 @@ I've held senior technical and architecture roles across **Knovera, NaviOwl, Zer
 
 | 🚀 Production AI Systems | 🤖 Agentic Workflows Shipped | 🏢 Enterprises Served | 👨‍🏫 Engineers Mentored |
 |:---:|:---:|:---:|:---:|
-| **`<add #>`** | **`<add #>`** | **`8+`** *(verify)* | **`<add #>`** |
+| **`25+`** | **`10+`** | **`8+`** *(verify)* | **`100+`** |
 
 | ⚡ Latency / Cost Improvement | 📦 Models in Production | 🧩 Years in AI & Systems | 🎓 Learners Reached |
 |:---:|:---:|:---:|:---:|
-| **`<add %>`** | **`<add #>`** | **`25+`** | **`<add #>`** |
+| **`40%`** | **`5+`** | **`25+`** | **`10,000+`** |
 
 </div>
 
@@ -89,6 +89,8 @@ location: Bengaluru, India
 experience: 25+ years (research → engineering → enterprise AI)
 
 specialization:
+  - Machine Learning
+  - Deep Learning
   - Generative AI
   - Agentic AI & Multi-Agent Systems
   - Graph-RAG (knowledge graph + vector retrieval)
@@ -132,6 +134,47 @@ graph TD
 ```
 
 **Architecture pillars I design around:** orchestration & routing • grounded retrieval • evaluation & guardrails • cost/latency optimization • multi-tenancy & isolation • observability • governance.
+
+---
+
+<!-- ============================ AWS DEPLOYMENT ARCHITECTURE ============================ -->
+## ☁️ AutoFounder AI — AWS End-to-End Deployment Architecture
+
+A cloud-native, multi-environment deployment on **AWS (ap-south-1)** — GitOps CI/CD into containerized services behind a load balancer, with managed data, caching, eventing, and secrets.
+
+```mermaid
+flowchart LR
+    subgraph DEV["👨‍💻 Developer Workflow"]
+        D[Developer] --> GH[GitHub Repo<br/>dev · uat · main]
+        GH --> GA[GitHub Actions CI/CD<br/>build · test · scan]
+    end
+
+    GA -->|push image| ECR[(Amazon ECR<br/>Container Registry)]
+
+    subgraph AWS["☁️ AWS · ap-south-1 · VPC"]
+        ECR --> ECS[Amazon ECS · Fargate<br/>FastAPI Services]
+        ALB[Application<br/>Load Balancer] --> ECS
+        ECS --> SM[Secrets Manager<br/>+ KMS Encryption]
+        ECS --> CACHE[(ElastiCache<br/>Redis)]
+        ECS --> EVT[Event Backbone<br/>Kafka · EventBridge<br/>SQS · SNS]
+        ECS --> S3[(Amazon S3<br/>Object Lock)]
+        ECS --> CW[CloudWatch<br/>Logs · Metrics]
+        IAM[IAM Roles<br/>least privilege] -.governs.-> ECS
+    end
+
+    subgraph DATA["🗄️ Managed Data"]
+        ECS --> SUPA[(Supabase Cloud<br/>Postgres · Realtime)]
+    end
+
+    U[🌐 Users] --> ALB
+
+    style AWS fill:#0f172a,color:#fff
+    style ECS fill:#2563eb,color:#fff
+    style ALB fill:#1e3a8a,color:#fff
+    style SUPA fill:#1e3a8a,color:#fff
+```
+
+**Deployment flow:** code merges to `dev`/`uat`/`main` → GitHub Actions builds, tests, and pushes images to **ECR** → **ECS Fargate** rolls out FastAPI services behind an **ALB**, pulling secrets from **Secrets Manager** (KMS-encrypted), caching in **ElastiCache Redis**, persisting to **Supabase** + **S3 (Object Lock)**, and emitting events via **Kafka / EventBridge / SQS / SNS** — all observable through **CloudWatch** and scoped by **least-privilege IAM**.
 
 ---
 
@@ -263,7 +306,9 @@ graph TD
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=asit-piri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub trophies"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=asit-piri&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+</a>
 
 </div>
 
@@ -277,37 +322,96 @@ graph TD
 <td width="50%" valign="top">
 
 ### 🚀 AutoFounder AI
-Multi-tenant **agentic AI platform** that automates founding & operating a startup — planning, building, and orchestrating autonomous workflows.
+Multi-tenant **agentic AI platform** that automates founding & operating a startup — planning, building, and orchestrating autonomous workflows on AWS.
 
 `Agentic AI` · `Graph-RAG` · `Multi-Agent` · `LLMOps`
 
 **Stack:** Python · FastAPI · LangGraph · Supabase · Redis · AWS
 
-<!-- TODO: replace REPO_NAME with the actual repo -->
-<a href="https://github.com/asit-piri/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asit-piri&repo=REPO_NAME&hide_border=true&theme=tokyonight" alt="AutoFounder AI repo"/>
+<img src="https://img.shields.io/badge/Status-In%20Development-2563eb?style=flat-square"/>
+<img src="https://img.shields.io/badge/Repo-Private-0f172a?style=flat-square&logo=github&logoColor=white"/>
+<!-- Make the repo public, then swap this block for a pin card:
+<a href="https://github.com/asit-piri/AUTOFOUNDER_REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asit-piri&repo=AUTOFOUNDER_REPO&hide_border=true&theme=tokyonight"/></a> -->
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Knovera
+**Multimodal RAG** system that ingests text, PDFs, documents, images, audio, and video, then embeds them for unified retrieval and grounded generation.
+
+`Multimodal RAG` · `Embeddings` · `Retrieval`
+
+**Stack:** Python · Gemini Embeddings · Vector Search
+
+<a href="https://github.com/asit-piri/Knovera">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asit-piri&repo=Knovera&hide_border=true&theme=tokyonight" alt="Knovera repo"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 mllm-calibrator
+Calibration tooling for **multimodal large language models** — improving the reliability and confidence alignment of MLLM outputs.
+
+`MLLM` · `Calibration` · `Evaluation`
+
+**Stack:** Python · PyTorch
+
+<img src="https://img.shields.io/badge/Repo-Private-0f172a?style=flat-square&logo=github&logoColor=white"/>
+<!-- Make public to enable the pin card:
+<a href="https://github.com/asit-piri/mllm-calibrator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asit-piri&repo=mllm-calibrator&hide_border=true&theme=tokyonight"/></a> -->
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ AWS Deployment Automation V2
+**End-to-end AWS deployment automation** — infrastructure, backend, and frontend provisioned and shipped via AWS services and GitHub Actions CI/CD.
+
+`AWS` · `IaC` · `CI/CD` · `DevOps`
+
+**Stack:** AWS · ECS · ECR · GitHub Actions
+
+<a href="https://github.com/asit-piri/Asit-AWS-Deployment-Automation-EndToEnd-V2.0">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asit-piri&repo=Asit-AWS-Deployment-Automation-EndToEnd-V2.0&hide_border=true&theme=tokyonight" alt="AWS Deployment V2 repo"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 GPT-MoE-FROM-SCRATCH
+A **GPT with Mixture-of-Experts** implemented from scratch — exploring sparse expert routing and efficient transformer architecture.
+
+`Transformers` · `MoE` · `From Scratch`
+
+**Stack:** Python · PyTorch
+
+<a href="https://github.com/asit-piri/GPT-MoE-FROM-SCRATCH">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asit-piri&repo=GPT-MoE-FROM-SCRATCH&hide_border=true&theme=tokyonight" alt="GPT MoE from scratch repo"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🐍 Python for Indian Learners
-Structured **Python education series** — beginner→intermediate, with Jupyter notebooks and Indian-context examples (₹ pricing, real cities).
+### 🛠️ LLM-FineTuning
+Hands-on **LLM fine-tuning** workflows — adapting foundation models to domain-specific tasks.
 
-`Education` · `Python` · `Jupyter` · `Content`
+`Fine-Tuning` · `LLMs` · `PEFT`
 
-**Topics:** Data types · Strings · Collections · Control flow · Loops
+**Stack:** Python · PyTorch · Transformers
 
-<!-- TODO: replace REPO_NAME with the actual repo -->
-<a href="https://github.com/asit-piri/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asit-piri&repo=REPO_NAME&hide_border=true&theme=tokyonight" alt="Python series repo"/>
+<a href="https://github.com/asit-piri/LLM-FineTuning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asit-piri&repo=LLM-FineTuning&hide_border=true&theme=tokyonight" alt="LLM fine-tuning repo"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-<sub>📌 *Pin your strongest 4–6 repos in GitHub settings too — that's the first thing a hiring manager scans.*</sub>
+<sub>📌 *Pin these same repos in your GitHub profile settings — the pinned row is the first thing a hiring manager scans.*</sub>
 
 ---
 
