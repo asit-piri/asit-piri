@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Asit Piri
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Building+Enterprise+Grade+AI+Platforms;Agentic+AI+%7C+GraphRAG+%7C+LLMOps;Multi-Agent+Systems+Architect;Generative+AI+Research+Scientist;AI+Platform+%26+Cloud+Transformation+Leader" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+Agentic+AI+%7C+LLMs;Building+Enterprise-Grade+AI+Platforms;Multi-Agent+Systems+Architect;GraphRAG+%7C+LLMOps+%7C+MLOps;AI+Platform+%26+Cloud+Transformation+Leader" />
 
 </div>
 
